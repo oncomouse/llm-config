@@ -1,0 +1,92 @@
+- model_id: protected.Claude 3.5 Haiku
+  model_name: protected.Claude 3.5 Haiku
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.Claude 3.5 Sonnet
+  model_name: protected.Claude 3.5 Sonnet
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.Claude 3.7 Sonnet
+  model_name: protected.Claude 3.7 Sonnet
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.Claude Opus 4.1
+  model_name: protected.Claude Opus 4.1
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.Claude Opus 4.5
+  model_name: protected.Claude Opus 4.5
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.Claude Sonnet 4
+  model_name: protected.Claude Sonnet 4
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.Claude Sonnet 4.5
+  model_name: protected.Claude Sonnet 4.5
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.Claude-Haiku-4.5
+  model_name: protected.Claude-Haiku-4.5
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gemini-2.0-flash
+  model_name: protected.gemini-2.0-flash
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gemini-2.0-flash-lite
+  model_name: protected.gemini-2.0-flash-lite
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gemini-2.5-flash
+  model_name: protected.gemini-2.5-flash
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gemini-2.5-flash-lite
+  model_name: protected.gemini-2.5-flash-lite
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gemini-2.5-pro
+  model_name: protected.gemini-2.5-pro
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gpt-4.1
+  model_name: protected.gpt-4.1
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gpt-4o
+  model_name: protected.gpt-4o
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gpt-5
+  model_name: protected.gpt-5
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gpt-5.1
+  model_name: protected.gpt-5.1
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.gpt-5.2
+  model_name: protected.gpt-5.2
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.llama3.2
+  model_name: protected.llama3.2
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.o3
+  model_name: protected.o3
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.o3-mini
+  model_name: protected.o3-mini
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: protected.o4-mini
+  model_name: protected.o4-mini
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+- model_id: text-embedding-3-small
+  api_base: https://chat-api.tamu.ai/api
+  api_key_name: tamu
+  model_name: protected.text-embedding-3-small
