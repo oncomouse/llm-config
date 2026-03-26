@@ -1,0 +1,1 @@
+fish/dot-config/fish/conf.d/llm-key.fish filter=git-crypt diff=git-crypt
